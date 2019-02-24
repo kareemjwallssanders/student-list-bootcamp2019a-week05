@@ -15,6 +15,11 @@ Create a simple app where a teacher can enter student names as they arrive at cl
   - (1 to 5 no 3) I completed the challenge
   - (1 to 5 no 3) I feel good about my code
   - Anything specific on which you want feedback!
+  
+  
+I completed the challenge: 4
+I feel good about my code: 4
+Need to work on styling site, also ...need to work on making code cleaner and shorter.
 
 Example:
 ```
